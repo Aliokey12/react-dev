@@ -1,4 +1,4 @@
-import axios from "axios"; //Getting axios package from axios.
+import axios from "axios";
 
 async function getData(id) {
 
